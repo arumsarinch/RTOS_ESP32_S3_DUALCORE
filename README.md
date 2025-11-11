@@ -42,7 +42,12 @@ Setiap eksperimen memiliki **folder terpisah** yang berisi:
 
 ## 🧪 Simulasi Wokwi
 Simulasi seluruh rangkaian dapat diakses melalui link berikut:  
+<<<<<<< HEAD
 👉 [Wokwi Project Simulation](https://wokwi.com/projects/447206591545559041)
+=======
+👉 [Wokwi Project Simulation](https://wokwi.com/projects/447250397015332865
+)
+>>>>>>> 067dfb1a4567a979d217530fd113252d6b0e7e38
 
 ---
 
