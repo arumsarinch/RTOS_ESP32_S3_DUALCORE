@@ -1,8 +1,8 @@
 # ⚙️ ESP32-S3 — Multi-Core Peripheral Experiments
 
 ## 🧩 Identitas
-**Nama:** Gusti Hawa Sa'bania Bukian  
-**NRP:** 3223600024  
+**Nama:** Arum Sari Nur Chasanah
+**NRP:** 3223600027
 **Kelas:** 3 D4 Teknik Komputer A  
 
 ---
