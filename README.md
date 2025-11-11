@@ -1,8 +1,8 @@
 # ⚙️ ESP32-S3 — Multi-Core Peripheral Experiments
 
 ## 🧩 Identitas
-**Nama:** Arum Sari Nur Chasanah  
-**NRP:** 3223600027  
+**Nama:** Gusti Hawa Sa'bania Bukian  
+**NRP:** 3223600024  
 **Kelas:** 3 D4 Teknik Komputer A  
 
 ---
@@ -42,12 +42,7 @@ Setiap eksperimen memiliki **folder terpisah** yang berisi:
 
 ## 🧪 Simulasi Wokwi
 Simulasi seluruh rangkaian dapat diakses melalui link berikut:  
-<<<<<<< HEAD
-👉 [Wokwi Project Simulation](https://wokwi.com/projects/447206591545559041)
-=======
-👉 [Wokwi Project Simulation](https://wokwi.com/projects/447250397015332865
-)
->>>>>>> 067dfb1a4567a979d217530fd113252d6b0e7e38
+👉 [Wokwi Project Simulation](https://wokwi.com/projects/447250397015332865)
 
 ---
 
